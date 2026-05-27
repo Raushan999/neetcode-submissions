@@ -1,5 +1,12 @@
 # NeetCode Solutions — @Raushan999
 
+
+
+<img width="1074" height="761" alt="image" src="https://github.com/user-attachments/assets/7f27ebde-d131-4a25-8144-8cbec7baecd6" />
+
+
+
+
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
